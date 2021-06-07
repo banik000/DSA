@@ -1,1 +1,4 @@
 7.6.2021 - Repository is created
+         - Added Quick Sort, Merge Sort, Heap Sort (min heap & max heap)
+         - Added Linear Search, Binary Search (recursive & iterative)
+
